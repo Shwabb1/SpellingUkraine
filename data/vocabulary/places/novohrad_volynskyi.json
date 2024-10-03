@@ -1,19 +1,23 @@
 {
   "category": "City",
-  "sourceSpelling": "Новоград-Волинський",
-  "correctSpelling": "Novohrad-Volynskyi",
+  "sourceSpelling": "Звягель",
+  "correctSpelling": "Zviahel",
   "incorrectSpellings": [
-    "Novograd-Volynsky",
-    "Novograd-Volynskiy"
+    "Zvyagel"
   ],
   "relatedSpellings": [
+    "Novohrad-Volynskyi",
+    "Novograd-Volynsky",
+    "Novograd-Volynskiy",
+    "Новоград-Волинський",
     "Новоград-Волынский",
     "Zwiahel"
   ],
+  "description": "Renamed from \"Novohrad-Volynskyi\" in November 2022.",
   "links": [
     {
-      "name": "Wikipedia: Novohrad-Volynskyi",
-      "url": "https://en.wikipedia.org/wiki/Novohrad-Volynskyi"
+      "name": "Wikipedia: Zviahel",
+      "url": "https://en.wikipedia.org/wiki/Zviahel"
     }
   ],
   "location": {
