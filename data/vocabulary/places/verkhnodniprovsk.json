@@ -1,8 +1,9 @@
 {
   "category": "City",
   "sourceSpelling": "Верхньодніпровськ",
-  "correctSpelling": "Verkhnodniprovsk",
+  "correctSpelling": "Verkhniodniprovsk",
   "incorrectSpellings": [
+    "Verkhnodniprovsk",
     "Verkhnedneprovsk",
     "Verkhnednieprovsk",
     "Verkhnednyeprovsk"
@@ -12,8 +13,8 @@
   ],
   "links": [
     {
-      "name": "Wikipedia: Verkhnodniprovsk",
-      "url": "https://en.wikipedia.org/wiki/Verkhnodniprovsk"
+      "name": "Wikipedia: Verkhniodniprovsk",
+      "url": "https://en.wikipedia.org/wiki/Verkhniodniprovsk"
     }
   ],
   "location": {
